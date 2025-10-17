@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Responsive dynamic websites<br>🌱 I’m currently learning  Fullstack, C/C++<br>💬 Ask me about Web development<br>⚡ Fun fact
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sapinosojohnpaulmille@gmail.com)
