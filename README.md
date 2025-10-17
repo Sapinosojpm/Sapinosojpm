@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Responsive dynamic websites<br>🌱 I’m currently learning  Fullstack, C/C++<br>💬 Ask me about Web development<br>⚡ Fun fact
+🔭 I’m currently working on Responsive dynamic websites<br>🌱 I’m currently learning  Fullstack, C/C++<br>💬 Ask me about Web development<br>📫 Reach me at sapinosojohnpaulmille@gmail.com
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sapinosojohnpaulmille@gmail.com)
