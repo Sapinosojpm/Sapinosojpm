@@ -41,6 +41,7 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-%23FF0000.svg?style=for-the-badge&logo=roblox&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sapinosojpm/Sapinosojpm/output/pacman-contribution-graph-dark.svg">
